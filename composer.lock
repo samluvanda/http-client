@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "07a3296b8c4dfd2152b51b4d4ab2fe7d",
+    "packages": [
+        {
+            "name": "samluvanda/collection",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/samluvanda/collection.git",
+                "reference": "bcefc673ceca9890275e6c59b6766ff4b80e762b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/samluvanda/collection/zipball/bcefc673ceca9890275e6c59b6766ff4b80e762b",
+                "reference": "bcefc673ceca9890275e6c59b6766ff4b80e762b",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.1"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Support\\": "src/Support/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Samson Luvanda",
+                    "email": "s_luvanda@hotmail.com"
+                }
+            ],
+            "description": "A fluent, chainable Collection class for PHP inspired by Laravel, JavaScript, and C#.",
+            "support": {
+                "issues": "https://github.com/samluvanda/collection/issues",
+                "source": "https://github.com/samluvanda/collection/tree/v1.0.0"
+            },
+            "time": "2025-06-07T19:28:10+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {},
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}

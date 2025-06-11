@@ -1,0 +1,17 @@
+/vendor/
+/.idea/
+/.vscode/
+/.DS_Store
+/Thumbs.db
+*.log
+*.cache
+*.tmp
+.phpunit.result.cache
+/coverage/
+/.env
+/.env.*
+*.swp
+/tests/output/
+/tests/_output/
+/tests/_logs/
+/tests/_temp/
